@@ -17,5 +17,5 @@ The application utilizes the Web Speech API available in modern browsers to conv
 - **CSS**: Basic styling to make the interface user-friendly.
 - **JavaScript**: Handles the logic for converting text to speech using the Web Speech API.
 ## Image
-![image alt]()
+![image alt](https://github.com/San-Sandhiy-a/TextToSpeech/blob/main/screenshot.png?raw=true)
 
